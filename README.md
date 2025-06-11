@@ -3,7 +3,7 @@ Ako finálny projekt z predmetu Kreatívne programovanie IV som sa rozhodol vytv
 
 S touto formou link-vizitky som už mal skúsenosti vďaka nástroju LinkTree – „Link in Bio“ platforme, kde si používatelia môžu uložiť rôzne odkazy na jednom mieste pre jednoduché zdieľanie. LinkTree má však svoje obmedzenia, predovšetkým vizuálne. Používatelia si síce môžu vybrať z rôznych farebných motívov, no všetky sú postavené na rovnakom šablónovom základe.
 
-Preto som sa rozhodol vytvoriť vlastnú, vylepšenú verziu, ktorá by nielen ukázala viac mojej osobnosti, ale bola aj interaktívna a zábavná. Dôležité pre mňa bolo aj to, aby bola optimalizovaná pre mobilné zariadenia, keďže práve na nich si ľudia najčastejšie prezerajú prácu počas osobného kontaktu.
+Preto som sa rozhodol vytvoriť vlastnú, vylepšenú verziu, ktorá by nielen ukázala viac mojej osobnosti, ale bola aj interaktívna a zábavná. Dôležité pre mňa bolo aj to, aby bola optimalizovaná pre mobilné zariadenia, keďže práve na nich si ľudia najčastejšie prezerajú prácu počas networkingu.
 
 Môj pôvodný LinkTree:
 
@@ -18,14 +18,14 @@ Vedel som, že po vizuálnej stránke sa chcem zamerať na čisté a jednoduché
 Preto som sa prioritne zameral na funkčnosť a jasný branding, v kombinácii s výraznými farbami a odkazom na moju tvorbu prostredníctvom sprite animácie MACA z mojej videohry.
 
 # Proces
-V prvej scéne som chcel komunikovať, kto som – teda zobraziť moje meno, krátky opis seba a to, čomu sa venujem.
+V prvej scéne som chcel komunikovať, kto som – moje meno, krátky opis seba a to, čomu sa venujem.
 
 V druhom svete, Blob svete, som chcel odkazy hravo odprezentovať v „bublinách“, resp. bloboch.
 Popritom sa typografia môjho mena rozpadne na vrch týchto telies, s ktorými sa dá ďalej interagovať.
+
 ![IMG_1343](https://github.com/user-attachments/assets/b10c6c84-d433-44b9-8792-d41faa49b470)
 
 Pomocou knižnice Matter.js sú na bloby v scéne aplikované sily tak, aby s nimi používateľ mohol voľne hádzať, a písmená aj ostatné bloby na to prirodzene reagovali. Pri ťahaní týchto blobov sa zároveň mení farebná schéma scény.
-
 Ďalšou možnosťou interakcie je pridávanie mini-blobov do prostredia – stačí potiahnuť prstom alebo kurzorom po prázdnom pozadí.
 
 Pridal som tiež tlačidlo „REFRESH“ v podobe MACOvej hlavy v ľavom hornom rohu, ktoré resetuje blob svet do pôvodného stavu a opäť zobrazí intro.
