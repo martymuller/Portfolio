@@ -45,11 +45,11 @@ let blobData = [
   {
     label: "Portfolio",
     url:
-      "https://drive.google.com/file/d/1L6JL5WGxysVukSQIFSOYCX_lDNTmTBf9/view?usp=sharing",
+      "https://drive.google.com/file/d/16cxcM6TZ5UROd9hoylLO6hE6vHEDncrn/view?usp=sharing",
   },
   { label: "Instagram", url: "https://www.instagram.com/tyjahoda" },
   { label: "YouTube", url: "https://youtube.com/@tyjahoda" },
-  { label: "FilmFreeway", url: "https://filmfreeway.com/MartyMuller" },
+  { label: "itch.io", url: "https://tyjahoda.itch.io/" },
 ];
 
 let bounds = [];
